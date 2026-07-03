@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Bader7771/Bader7771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey I'm Badr Eddine
 
-Here are some ideas to get you started:
+### 💻 Full-Stack Web Developer • UI/UX Designer • AI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About Me
+
+- 💻 Passionate Full-Stack Web Developer creating modern, scalable web applications.
+- 🎨 UI/UX Designer focused on clean, intuitive, and user-centered experiences.
+- 🤖 AI Developer exploring Artificial Intelligence, Machine Learning, and AI-powered applications.
+- 🌱 Currently learning React, Laravel, PHP, MySQL, Python, and Artificial Intelligence.
+- 🚀 Always building, learning, and improving.
+
+## Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,php,mysql,python,figma,git,github,vscode" alt="HTML, CSS, JavaScript, React, Laravel, PHP, MySQL, Python, Figma, Git, GitHub, and VS Code icons" />
+
+</div>
+
+## Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bader7771/Bader7771/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bader7771/Bader7771/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph animation" src="https://raw.githubusercontent.com/Bader7771/Bader7771/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
